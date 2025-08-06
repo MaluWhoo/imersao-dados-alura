@@ -5,4 +5,5 @@ Este repositório contém os códigos e exercícios que desenvolvi durante a **I
 
 ## 📚 Conteúdo
 
-- Análise de dados com Python
+- Imersão Dados com Python
+- Aprenda a Limpar e Preparar os Dados (em andamento...)
