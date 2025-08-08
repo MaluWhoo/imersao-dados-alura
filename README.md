@@ -7,4 +7,5 @@ Este repositório contém os códigos e exercícios que desenvolvi durante a **I
 
 - Imersão Dados com Python
 - Aprenda a Limpar e Preparar os Dados
-- Vizualização de Dados (em andamento...)
+- Vizualização de Dados
+- Construindo um Dashboard com Streamlit
